@@ -11,8 +11,8 @@ ________________________________________________________________________________
 ## Basic work with VK API.
 
 
-_ Idea for the project: To create a program for working with VK that performs the functionality I need. Firstly, SMS and posts._
-_ New abilities:_
+_Idea for the project: To create a program for working with VK that performs the functionality I need. Firstly, SMS and posts._
+_New abilities:_
 1. To add new IDs, possibly through the database.
 2. To upload photos and music to the wall.
 3. Add the menu, log and controller.
